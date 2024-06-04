@@ -1,0 +1,33 @@
+h1 {
+    font-family: Impact;
+    font-size: 65px;
+    color: deeppink
+   }
+h2 {
+    font-family: Tahoma;  
+    font-size: 32px;
+    color: hotpink;
+    border: 10px solid deeppink;
+    padding: .5em;
+}
+
+    body {
+    text-align: center;
+    background-color: lavender;
+    font-family: Arial, sans-serif;
+    font-size: 19px;
+    margin: 25%;
+    padding: 3px;
+    }
+p {
+    margin-bottom: 2em;
+}
+
+footer {
+     color: deeppink;
+}
+
+iframe {
+   max-width: 100%;
+}
+
